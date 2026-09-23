@@ -2,7 +2,7 @@
 # 🛒 Ecommerce Sales & Customer Analytics Dashboard
 
 An interactive **Excel dashboard** created to analyze e-commerce sales, customer behavior, product performance, and business trends. The dashboard presents key financial and operational metrics with interactive filters for easy analysis.
-<img width="873" height="619" alt="Screenshot 2026-09-16 131848" src="https://github.com/user-attachments/assets/4f8df486-7cd2-4222-aceb-827e26c0dc9b" />
+### 📸 Dashboard Preview<img width="873" height="619" alt="Screenshot 2026-09-16 131848" src="https://github.com/user-attachments/assets/4f8df486-7cd2-4222-aceb-827e26c0dc9b" />
 
 ### 📊 Key Business Metrics
 
@@ -39,7 +39,5 @@ An interactive **Excel dashboard** created to analyze e-commerce sales, customer
 
 ### 🛠️ Tools Used
 
-**Microsoft Excel | Pivot Tables | Pivot Charts | Slicers | Excel Dashboard | Data Analysis**
-
-### 📸 Dashboard Preview
+**Microsoft Excel | Pivot Tables | Pivot Charts | Slicers | Excel Dashboard | Data Analysis*
 
